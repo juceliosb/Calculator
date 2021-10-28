@@ -1,2 +1,2 @@
 # Calculator
-Exercitando aplicação em Android Studio com Java
+Aplicação em Android Studio com Java
